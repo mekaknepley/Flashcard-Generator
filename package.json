@@ -1,0 +1,19 @@
+{
+  "name": "flashcard-generator",
+  "version": "1.0.0",
+  "description": "flash cards",
+  "main": "Main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mekaknepley/Flashcard-Generator.git"
+  },
+  "author": "Meka Knepley",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mekaknepley/Flashcard-Generator/issues"
+  },
+  "homepage": "https://github.com/mekaknepley/Flashcard-Generator#readme"
+}
